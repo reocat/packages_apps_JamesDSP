@@ -1,5 +1,6 @@
 # JamesDSP
-- Add this in **device.mk**: $(call inherit-product, packages/apps/JamesDSP/config.mk)
+- Add this in **device.mk**:
+     $(call inherit-product, packages/apps/JamesDSP/config.mk)
 
 Add this to your **audio_effects.xml**:
 
